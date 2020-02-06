@@ -22,5 +22,12 @@
         "psr-4": {
             "Hcode\\Template\\": "tests"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hcode\\Template\\TemplateServiceProvider"
+            ]
+        }
     }
 }
