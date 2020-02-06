@@ -1,0 +1,26 @@
+{
+    "name": "hcode/template",
+    "description": "Template adminLTE3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valeriano Chete",
+            "email": "vjchete@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hcode\\Template\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Hcode\\Template\\": "tests"
+        }
+    }
+}
