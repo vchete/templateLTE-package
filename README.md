@@ -1,3 +1,3 @@
 # Template
 
-# Laravel template LTE 3
+# Laravel template LTE 3 V6
